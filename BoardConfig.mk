@@ -98,7 +98,4 @@ TW_IGNORE_MAJOR_AXIS_0 := true
 RECOVERY_GRAPHICS_USE_LINELENGTH := true
 RECOVERY_TOUCHSCREEN_SWAP_XY := true
 RECOVERY_TOUCHSCREEN_FLIP_Y := true
-TW_ROTATION := 180
-
-# Show build time on the splash screen
-TW_DEVICE_VERSION=$(shell date '+%Y%m%d') by depesh1977
+TW_ROTATION := 0
